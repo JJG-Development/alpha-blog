@@ -57,6 +57,23 @@ body {
     background-color: #fff;
 }
 
+.btn-xlarge.btn-danger {
+    background-color: red;
+}
+
+.btn-xlarge.btn-danger:hover {
+    background-color: #999999;
+}
+
+.article-actions {
+    border-top: 1px dotted #eaeaea;
+    padding-top: 5px;
+}
+
+.description {
+    margin-top: 0;
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
